@@ -1,5 +1,5 @@
 import React from 'react';
-import './main-layout.css';
+import './main-layout.scss';
 import {Outlet} from 'react-router-dom';
 import Sidebar from './../components/sidebar/Sidebar';
 import TopNav from '../components/topNav/TopNav';

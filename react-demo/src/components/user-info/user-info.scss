@@ -1,0 +1,7 @@
+@use '../../scss/abstracts/' as *;
+
+.user-info {
+    @include flex(center, flex-start);
+    background-color: $mainBg;
+    
+}
