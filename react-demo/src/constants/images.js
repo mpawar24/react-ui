@@ -3,4 +3,4 @@ const images = {
     avt: require('../assets/images/User.jpg')
 }
 
-export default images
+export default images;
